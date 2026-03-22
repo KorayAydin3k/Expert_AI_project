@@ -2,7 +2,10 @@
   "permissions": {
     "allow": [
       "Bash(python3:*)",
-      "Bash(npm run:*)"
+      "Bash(npm run:*)",
+      "Bash(jupyter nbconvert:*)",
+      "Bash(head -2 /Users/deniztaylan/Documents/GitHub/Expert_AI_project/data/processed/*.csv)",
+      "Bash(npx tsc:*)"
     ]
   }
 }
