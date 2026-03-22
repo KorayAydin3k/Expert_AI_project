@@ -1,0 +1,21 @@
+node_modules
+# dependencies
+node_modules
+
+# build
+dist
+
+# system
+.DS_Store
+
+# env
+.env
+
+# python
+.venv
+
+# notebooks / training logs
+notebook/catboost_info/
+
+# optional large data
+*.csv
