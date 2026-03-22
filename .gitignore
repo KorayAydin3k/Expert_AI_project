@@ -18,4 +18,6 @@ dist
 notebook/catboost_info/
 
 # optional large data
+
 *.csv
+!vite-project/public/*.csv
